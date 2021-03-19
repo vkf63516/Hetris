@@ -1,3 +1,4 @@
 # Hetris
-Sideways version of Tetris.
+Sideways version of Tetris under development.
+
 
